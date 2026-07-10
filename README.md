@@ -64,12 +64,14 @@ class AliShan:
 
 | Project | What It Does | Stack | Live |
 |---------|-------------|-------|------|
-| **Therapist Matching Pipeline** | Vector search + Redis caching across 400K+ provider records — significantly reduced match latency | FastAPI · pgvector · Redis · Upstash | @ [Vieromind](https://vieromind.com) |
-| **Viero Compass** | Adaptive psychometric assessment via RAG + LLM evaluation delivering behavioral insights | RAG · OpenAI · PostgreSQL | @ [Vieromind](https://vieromind.com) |
-| **Ravius** | Organizational intelligence — employee wellbeing, burnout detection, workforce analytics on secure multi-tenant architecture | FastAPI · Next.js · pgvector | [ravius.com](https://ravius.com) |
-| **Duevo** | Done-for-you AR follow-up in the client's own voice, from their own domain, with approval before anything sends | Next.js 15 · FastAPI · QBO OAuth | [getduevo.com](https://getduevo.com) |
-| **Sialorix** | Turns a product URL into ICP generation, lead discovery, and personalized outreach via multi-agent orchestration | Claude API · Next.js · PostgreSQL | [sialorix.com](https://sialorix.com) |
-| **HayatSonic Bazaar** | Six specialized AI agents coordinating commerce workflows — sales, inventory, finance, analytics | Agentic AI · Tool Use · TypeScript | [Live](https://hayatsonic-bazaar.vercel.app) · [Code](https://github.com/alishan4/hayatsonic-bazaar) |
+| **VieroMind Platform** | Mental health and wellbeing ecosystem — AI-assisted support, therapist discovery and booking, journaling, mood check-ins, community features, VieroCompass assessments, and VieroMind Academy. Designed to expand access to care while keeping qualified professionals at the center | FastAPI · Next.js · PostgreSQL · AWS | [vieromind.com](https://vieromind.com) |
+| **Therapist Matching Pipeline** | Vector search + Redis caching across 400K+ provider records — significantly reduced match latency at scale | FastAPI · pgvector · Redis · Upstash | @ [Vieromind](https://vieromind.com) |
+| **Multi-User Session System** | HIPAA-aligned therapist–patient session management with multi-tenant isolation, RBAC, privacy-first communication, and secure role-based access across 100+ therapists and 5,000+ users | FastAPI · PostgreSQL · RBAC · 2FA | @ [Vieromind](https://vieromind.com) |
+| **Viero Compass** | Adaptive psychometric assessment via RAG + LLM evaluation — maps communication styles, emotional triggers, and decision-making patterns into actionable behavioral profiles | RAG · OpenAI · PostgreSQL | @ [Vieromind](https://vieromind.com) |
+| **Ravius** | Organizational intelligence — employee wellbeing, burnout detection, and workforce analytics on a secure multi-tenant architecture with AI-driven leadership dashboards | FastAPI · Next.js · pgvector | [ravius.com](https://ravius.com) |
+| **Duevo** | Done-for-you AR follow-up in the client's own voice, from their own domain, with human approval before anything sends | Next.js 15 · FastAPI · QBO OAuth | [getduevo.com](https://getduevo.com) |
+| **Sialorix** | Turns a product URL into ICP generation, lead discovery, contact enrichment, and personalized outreach via multi-agent orchestration | Claude API · Next.js · PostgreSQL | [sialorix.com](https://sialorix.com) |
+| **HayatSonic Bazaar** | Six specialized AI agents coordinating commerce workflows — sales, inventory, finance, analytics, and customer engagement | Agentic AI · Tool Use · TypeScript | [Live](https://hayatsonic-bazaar.vercel.app) · [Code](https://github.com/alishan4/hayatsonic-bazaar) |
 
 ---
 
@@ -135,29 +137,11 @@ Topics I write about:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=alishan4&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishan4&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=alishan4&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff"/>
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
-I'm currently open to **senior AI engineering roles** at US-based companies and startups — particularly in health tech, AI infrastructure, and agentic systems.
+I'm currently open to **Applied AI engineering roles** at US-based companies and startups — particularly in health tech, AI infrastructure, and agentic systems.
 
 If you're building something ambitious with LLMs and need an engineer who has done it in production — let's talk.
 
