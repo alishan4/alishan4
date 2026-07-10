@@ -35,9 +35,10 @@ class AliShan:
     role        = "Lead AI Engineer @ Vieromind Foundation (US-Founded)"
     location    = "Lahore, Pakistan  →  targeting San Francisco"
     building    = [
-        "Duevo          → AI-powered AR automation for US agencies  (getduevo.com)",
-        "Sialorix        → Autonomous B2B lead generation            (sialorix.com)",
-        "Ravius          → Organizational intelligence platform      (ravius.com)",
+        "VieroMind Platform    → AI-powered mental health and therapist ecosystem  (vieromind.com)",
+        "Duevo                 → AI-powered AR automation for US agencies          (getduevo.com)",
+        "Sialorix              → Autonomous B2B lead generation                    (sialorix.com)",
+        "Ravius                → Organizational intelligence platform              (ravius.com)",
     ]
     newsletter  = "Architecting Production AI — 460+ engineers & technical leaders"
     focus       = "Production AI that ships, scales, and stays reliable"
@@ -67,7 +68,7 @@ class AliShan:
 | **VieroMind Platform** | Mental health and wellbeing ecosystem — AI-assisted support, therapist discovery and booking, journaling, mood check-ins, community features, VieroCompass assessments, and VieroMind Academy. Designed to expand access to care while keeping qualified professionals at the center | FastAPI · Next.js · PostgreSQL · AWS | [vieromind.com](https://vieromind.com) |
 | **Therapist Matching Pipeline** | Vector search + Redis caching across 400K+ provider records — significantly reduced match latency at scale | FastAPI · pgvector · Redis · Upstash | @ [Vieromind](https://vieromind.com) |
 | **Multi-User Session System** | HIPAA-aligned therapist–patient session management with multi-tenant isolation, RBAC, privacy-first communication, and secure role-based access across 100+ therapists and 5,000+ users | FastAPI · PostgreSQL · RBAC · 2FA | @ [Vieromind](https://vieromind.com) |
-| **Viero Compass** | Adaptive psychometric assessment via RAG + LLM evaluation — maps communication styles, emotional triggers, and decision-making patterns into actionable behavioral profiles | RAG · OpenAI · PostgreSQL | @ [Vieromind](https://vieromind.com) |
+| **Viero Compass** | Adaptive psychometric assessment via RAG + LLM evaluation — maps communication styles, emotional triggers, and decision-making patterns into actionable behavioral profiles | RAG · OpenAI · PostgreSQL | @ [Compass](https://vierocompass.vercel.app/)) |
 | **Ravius** | Organizational intelligence — employee wellbeing, burnout detection, and workforce analytics on a secure multi-tenant architecture with AI-driven leadership dashboards | FastAPI · Next.js · pgvector | [ravius.com](https://ravius.com) |
 | **Duevo** | Done-for-you AR follow-up in the client's own voice, from their own domain, with human approval before anything sends | Next.js 15 · FastAPI · QBO OAuth | [getduevo.com](https://getduevo.com) |
 | **Sialorix** | Turns a product URL into ICP generation, lead discovery, contact enrichment, and personalized outreach via multi-agent orchestration | Claude API · Next.js · PostgreSQL | [sialorix.com](https://sialorix.com) |
